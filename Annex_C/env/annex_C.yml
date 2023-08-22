@@ -1,4 +1,4 @@
-name: base
+name: annex_C
 channels:
   - anaconda
   - defaults
