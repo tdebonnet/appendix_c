@@ -7,7 +7,7 @@ The aim of this package is to automate the creation of Appendix C using the foll
 
 The extensions considered in this package are:
 - zip (via JSON export to openLCA)
-- XLSX (via brightway and Activity Browser)
+- XLSX (via Brightway and Activity Browser)
 - CSV (via SimaPro)
 
 ## Installation 
