@@ -12,5 +12,7 @@ The extensions considered in this package are:
 
 ## Installation 
 conda env create -f appendix_C.yml
+
 conda activate appendix_C
-conda install -c conda-forge tdebonnet/Appendix_C
+
+conda install -c conda-forge tdebonnet/appendix_c
