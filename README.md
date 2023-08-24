@@ -1,8 +1,15 @@
-# Annex_C
+# Creation of Appendix C
 
-Creation of Annex C
+The aim of this package is to automate the creation of Appendix C using the following software: 
+- openLCA 
+- Brightway2
+- SimaPro
 
+The extensions considered in this package are:
+- zip (via JSON export to openLCA)
+- XLSX (via brightway and Activity Browser)
+- CSV (via SimaPro)
 
 ## Installation 
-conda env create -f annex_C.yml
-conda activate annex_C
+conda env create -f appendix_C.yml
+conda activate appendix_C
