@@ -12,6 +12,7 @@ The extensions considered in this package are:
 
 ## Requirements 
 Anaconda installed
+
 Unzip python package
 
 ## Installation 
