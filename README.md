@@ -17,9 +17,15 @@ Unzip python package
 
 ## Installation 
 
-      
+Download and register all python files in appendix_c/Annex_C/annex_c_creation.
+
 conda env create -f appendix_C.yml
 
 conda activate appendix_C
 
-conda install -c conda-forge tdebonnet/appendix_c
+#Select the path where you save the files. 
+
+cd path
+
+python final_interface_appendix_C.py
+
