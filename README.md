@@ -11,6 +11,10 @@ The extensions considered in this package are:
 - CSV (via SimaPro)
 
 ## Installation 
+  ### Requirements 
+      Anaconda installed
+      Unzip python package
+      
 conda env create -f appendix_C.yml
 
 conda activate appendix_C
