@@ -10,10 +10,12 @@ The extensions considered in this package are:
 - XLSX (via Brightway2 and Activity Browser)
 - CSV (via SimaPro)
 
+## Requirements 
+Anaconda installed
+Unzip python package
+
 ## Installation 
-  ### Requirements 
-      Anaconda installed
-      Unzip python package
+
       
 conda env create -f appendix_C.yml
 
